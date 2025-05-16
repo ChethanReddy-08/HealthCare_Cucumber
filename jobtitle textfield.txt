@@ -1,0 +1,25 @@
+jobtitle textfield
+1. To check that jobtitle textfield should accept 5 characters
+2. To check that jobtitle textfield should accept 6 characters
+3. To check that jobtitle textfield should accept 60 characters
+4. To check that jobtitle textfield should accept 59 characters
+5. To check that jobtitle textfield should not accept 4 characters
+6. To check that jobtitle textfield should not accept 61 characters
+7. To check that jobtitle textfiled should not blank
+8. To check that jobtitle textfiled should accept only numbers
+9. To check that jobtitle textfiled should accept only alphabets 
+10. To check that jobtitle textfiled should accept only special characters
+11. To check that jobtitle textfiled should accept Copy pasted data
+12. To check that jobtitle textfiled should accept Cut pasted data
+13. To check that jobtitle textfiled should accept combination of numbers and alphabets 
+14. To check that jobtitle textfiled should accept combination of numbers and special characters
+15. To check that jobtitle textfiled should accept combination of special characters and alphabets
+16. To check that jobtitle textfiled should  not accept emojis
+17. To check that jobtitle textfiled should not accept gifs
+18. To check that jobtitle textfiled should accept space
+19. To check that jobtitle textfiled should accept 
+20. To check that jobtitle textfiled should accept combination of numbers and alphabets 
+
+Mobile Number text field:
+1. To check that Mobile number textfiled should accept only numbers.
+2. 

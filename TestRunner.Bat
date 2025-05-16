@@ -1,2 +1,2 @@
-cd D:\SeleniumPractice\HealthCare_Cucumber 
-mvn verify test
+cd /d D:\SeleniumPractice\HealthCare_Cucumber
+mvn clean verify test
